@@ -2,7 +2,7 @@
   <br>
 - 👀 I’m interested in Data Science and Analytics
   <br>
-- 🌱 I’m currently learning Data Scicence
+- 🌱 I’m currently learning Data Scicence and Analytics
 
 
 <!---
